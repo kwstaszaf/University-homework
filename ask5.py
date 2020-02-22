@@ -11,3 +11,4 @@ for i in words:
         #και επειτα "προσθετουμε στο τελος το πρωτο γραμμα και το "ay"
         neword=i[1:] +i[0]+ "ay"
         print(neword)
+f.close()
