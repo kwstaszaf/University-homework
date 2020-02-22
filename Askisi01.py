@@ -24,5 +24,5 @@ for i in range(0,5):
 reverse=lst[0:5]#κραταμε τις 5 μεγαλυτερες λεξεις χωρις φωνηεντα
 newWords = [word[::-1] for word in reverse]#και εδω τις αντιστρεφουμε
 print(newWords)
-
+f.close()
  
